@@ -14,6 +14,7 @@ In this lab, you learned about the basic building block of sequential circuits: 
 ## Names
 Caden Anderson, Brolen Gumb
 ## Summary
+    * In this lab we learned how to store data as memory by using: SR-Latch, D-Latch, Multiplexers & DeMultiplexers to assist in transferring, selecting & managing the data inputted from the switches on the board to the LEDs. Allowing us to store up to 4 different inputs in memory & return their concents when selected.
 
 ## Lab Questions
 
@@ -21,5 +22,6 @@ Caden Anderson, Brolen Gumb
 
 ### What is the meaning of always @(*) in a sensitivity block?
     * The statement only occurs when a change is made to one of the inputted variables.
+
 ### What importance is memory to digital circuits?
-    * With large systems, it becomes difficult to insert all possible inputs at the circuit's creation. Therefore we use memory to input as-necessary to change previous data or input new data.
+    * With large systems requiring many levels, it becomes difficult to insert all possible inputs at the circuit's creation. Therefore we use memory to input as-necessary to change previous data or input new data as required.
