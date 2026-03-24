@@ -1,0 +1,5 @@
+.bundle/
+a.out
+dump.vcd
+*.html
+__pycache__/
